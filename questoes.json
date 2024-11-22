@@ -1,0 +1,27 @@
+{
+  "titulo": "Questionário de Coaching",
+  "perguntas": [
+    {
+      "id": 1,
+      "tipo": "texto",
+      "texto": "Informe o código do vendedor"
+    },
+    {
+      "id": 2,
+      "tipo": "radio",
+      "texto": "O Vendedor sabe a sua necessidade do dia em seus principais indicadores?",
+      "opcoes": ["Sim", "Não"]
+    },
+    {
+      "id": 3,
+      "tipo": "dropdown",
+      "texto": "Qual nota você daria para o atendimento do vendedor no cliente?",
+      "opcoes": [
+        "01 - Não atende",
+        "02 - Atende parcialmente",
+        "03 - Atende bem",
+        "04 - Supera expectativas"
+      ]
+    }
+  ]
+} 
